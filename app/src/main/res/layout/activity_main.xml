@@ -145,7 +145,7 @@
             android:scaleType="fitXY"
             android:layout_height="50dp"
             android:layout_margin="10dp"
-            android:background="none"
+            android:background="#00000000"
             android:src="@drawable/pictures"
             />
 
@@ -155,7 +155,7 @@
             android:scaleType="fitXY"
             android:layout_height="50dp"
             android:layout_margin="10dp"
-            android:background="none"
+            android:background="#00000000"
             android:src="@drawable/paint_brush"
             />
 
