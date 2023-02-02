@@ -150,6 +150,26 @@
             />
 
         <ImageButton
+            android:id="@+id/ib_undo"
+            android:layout_width="50dp"
+            android:scaleType="fitXY"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#00000000"
+            android:src="@drawable/undo"
+            />
+
+        <ImageButton
+            android:id="@+id/ib_redo"
+            android:layout_width="50dp"
+            android:scaleType="fitXY"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="#00000000"
+            android:src="@drawable/redo"
+            />
+
+        <ImageButton
             android:id="@+id/ib_brush"
             android:layout_width="50dp"
             android:scaleType="fitXY"
